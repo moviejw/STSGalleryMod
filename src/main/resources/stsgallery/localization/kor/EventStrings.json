@@ -1,0 +1,68 @@
+{
+  "${modID}:EventID": {
+    "NAME": "Event Name",
+    "DESCRIPTIONS": [
+      "This is event text, generally used to describe what's happening.",
+      "#g~This~ #g~text~ #g~is~ #g~green~ #g~and~ #g~wavy.~",
+      "#r@RED@ #r@AND@ #r@VIBRATING@ #r@TEXT.@",
+      "#rRed #gGreen #yYellow #bBlue #pPurple. ~Wavy~ @vibrating.@",
+      "You have to mark every word individually.",
+      "You can also use [#ffffff]white[] hex color codes like this to color text.",
+      "Hex color codes also work in card text! But not on keywords, without some workarounds."
+    ],
+    "OPTIONS": [
+      "[Action Description] What you actually get.",
+      "[Denial] #rLose #r1 #rMax #rHP. Bad stuff is red.",
+      "[Acceptance] #gGain #gApotheosis. Good stuff is green.",
+      "[Leave]",
+      "Select card to remove. (You can also stick extra text like this in here.)"
+    ]
+  },
+  "${modID}:General": {
+    "NAME": "슬레이 더 스파이어 마이너 갤러리",
+    "DESCRIPTIONS": [
+      "덱빌딩 로그라이크 게임 슬레이 더 스파이어를 다루는 갤러리입니다.",
+      "당신은 갤질을 그만두고 갈 길을 떠납니다."
+    ],
+    "OPTIONS": [
+      "[떠난다]",
+      "[추천]",
+      "[비추천]",
+      "[돌아간다]",
+      "[]"
+    ]
+  },
+  "${modID}:Normal": {
+    "NAME": "슬레이 더 스파이어 마이너 갤러리",
+    "DESCRIPTIONS": [
+      "아니 분명 병속의 요정 있는데 달팽이 공격 맞고 죽었어... NL 죽기 전에 써야 발동하는 거임?? 안 눌러지던데?",
+      "@넌@ @나의@ @것이다!!!@",
+      "그럼 1방어도=1드로우고 유령갑옷은 10방어도=10드로우니까 소멸없는 노강 휘갈김임 NL NL 그리고 휘갈김은 언럭키 부팅과정임",
+      "칼든 빨간색 전사같은새끼한테 뒤졌는데 부검좀 NL 1턴에 디버프넣고 2턴에 연타써서 피좀 깎았는데 NL 3턴부터 이새끼 무슨 타락 이거쓰더니 개좆지랄을하면서 막 카드 태우고만들고 하더니 걍 4턴연속 200딜맞고 디짐 이거 상대어케함?",
+      "슬래이더스파이어에무한댁이너무많아서카운터치는게컨셉이고 NL 카드를12장쓰면강제로턴종료를시키는능력이있어요 NL 이렇게만하면너무쉬우니까강제턴종료를할때마다 NL 힘을얻고카드뽑기를방해하는능력도쓰는거에요 NL 그리고결정적으로12장제한은한턴이아니라여러턴동안누적이돼니까 NL 11장만쓰고초기화시키는꼼수가않돼요!!! NL 이렇게만만들면단검쓰는도적은못깰수도있다고생각하지만 NL 나뭇가지나표창같은아이탬으로충분히깰수있습니다 NL 재밌게봤다면좋아요눌러주세요 (실어요 누를거면 님이 쓰샘)",
+      "모든 캐릭터에게 금강저 100개를 준 결과: NL 모든 캐릭터가 심장을 줘팼음 NL 모든 캐릭터에게 매끄러운돌 100개를 준 결과: NL 모든 캐릭터가 심장을 줘팼음 NL 모든 캐릭터에게 데이터디스크 100개를 준 결과: NL 디펙트 빼고는 심장클을 장담할 수 없었음 NL 따라서 디펙트 3점 아클사일와쳐2점으로 디펙트가 제일 강한 것으로 밝혀짐",
+      "일단 나부터"
+    ],
+    "OPTIONS": [
+      "[일반] 이거 왜 부활 안됨?",
+      "[일반] 도누 굿즈 리뷰함",
+      "[일반] 도약은 9방어도고 흘보는 8방어 1드로잖아?",
+      "[일반] 겜 존나 불합리하네",
+      "[일반] 제가생각한보스인데어떤지평가해주세요",
+      "[일반] 논리적인 디펙트가 가장 강한 이유",
+      "[일반] 최고의 유물이면 개추"
+    ]
+  },
+  "${modID}:Discussion": {
+    "NAME": "슬레이 더 스파이어 마이너 갤러리",
+    "DESCRIPTIONS": [
+      "토론 시작!",
+      "당신은 갤질을 그만두고 갈 길을 떠납니다.",
+      "카드를 평가하세요!"
+    ],
+    "OPTIONS": [
+      "[토론] ",
+      "[]"
+    ]
+  }
+}

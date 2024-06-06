@@ -1,0 +1,68 @@
+{
+  "${modID}:EventID": {
+    "NAME": "Event Name",
+    "DESCRIPTIONS": [
+      "This is event text, generally used to describe what's happening.",
+      "#g~This~ #g~text~ #g~is~ #g~green~ #g~and~ #g~wavy.~",
+      "#r@RED@ #r@AND@ #r@VIBRATING@ #r@TEXT.@",
+      "#rRed #gGreen #yYellow #bBlue #pPurple. ~Wavy~ @vibrating.@",
+      "You have to mark every word individually.",
+      "You can also use [#ffffff]white[] hex color codes like this to color text.",
+      "Hex color codes also work in card text! But not on keywords, without some workarounds."
+    ],
+    "OPTIONS": [
+      "[Action Description] What you actually get.",
+      "[Denial] #rLose #r1 #rMax #rHP. Bad stuff is red.",
+      "[Acceptance] #gGain #gApotheosis. Good stuff is green.",
+      "[Leave]",
+      "Select card to remove. (You can also stick extra text like this in here.)"
+    ]
+  },
+  "${modID}:General": {
+    "NAME": "Slay the Spire Gallery",
+    "DESCRIPTIONS": [
+      "Korean community of Slay the Spire.",
+      "You quit galley and go on your way."
+    ],
+    "OPTIONS": [
+      "[Leave]",
+      "[Upvote]",
+      "[Downvote]",
+      "[Go back]",
+      "[]"
+    ]
+  },
+  "${modID}:Normal": {
+    "NAME": "Slay the Spire Gallery",
+    "DESCRIPTIONS": [
+      "I'm sure there's a fairy in the bottle, and I was killed by a snail attack... NL Does it trigger when I use it before die?",
+      "@You@ @are@ @mine!!!@",
+      "Then 1 block = 1 draw, Ghostly armor is not exhausting Scrawl because 10block=10draw NL NL And then Scrawl is unlucky Boot Sequence.",
+      "I was killed by a red warrior boss. NL I debuffed him in 1 turn and hit him a lot in 2 turn but NL From the third turn he used skill like corruption, and then it was pure chaos. NL He kept burning and creating cards, and then I just got hit for 200 damage four turns in a row and died. NL How do you even counter this?",
+      "So in sts therearetoomany infinitedecks, and theideais to counter them. NL The boss hasanability that endsyourturn if you use12cards. NL Just doing that wouldbetooeasy, soeverytime your turn ends this way, NL thebossgainspower and gets an ability that disruptscarddraws. NL Andthebestpartis, the 12 card limitisn’tjustfor one turn but accumulatesovermultipleturns. NL This means youcan’tcheatbyusing 11 cards andthenresetting! NL I think this would makeitso dagger rogues can’t win, NL buttheycan still beat it withitemslike branches or shurikens. NL If youlikedthis, please hit vote.",
+      "With 100 Vajra: NL All chars win the game. NL With 100 Smooth Stone: NL All chars win the game. NL With 100 Data disk: NL Can't guarantee victory except Defect. NL Therefore, it turns out that the Defect is the strongest with the 3 point when others 2 point",
+      "CA CAW!!"
+    ],
+    "OPTIONS": [
+      "[General] Why can't I be revived?",
+      "[General] Got a Donu plushie",
+      "[General] Leap is 9 block and Shrug it off is 8 block and 1 draw?",
+      "[General] This game is so UNREASONABLE!!",
+      "[General] Thisis the BossIThoughtUp, PleaseTellMe What You Think",
+      "[General] The logical reason why the DEFECT is the strongest",
+      "[General] BEST relic of all time"
+    ]
+  },
+  "${modID}:Discussion": {
+    "NAME": "Slay the Spire Gallery",
+    "DESCRIPTIONS": [
+      "Discussion Start!",
+      "You quit galley and go on your way.",
+      "Evaluate the card!"
+    ],
+    "OPTIONS": [
+      "[Discussion] ",
+      "[]"
+    ]
+  }
+}

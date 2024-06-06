@@ -1,0 +1,52 @@
+{
+  "${modID}:ExampleCard": {
+    "NAME": "Name",
+    "DESCRIPTION": "Description.",
+    "UPGRADE_DESCRIPTION": "This will automatically be used if the card is upgraded. Remove it if unneeded.",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:HighCost": {
+    "NAME": "High Cost",
+    "DESCRIPTION": "The first time you play this card in combat, gain [E] ."
+  },
+  "${modID}:TrashWithoutPyramid": {
+    "NAME": "Trash Without Pyramid",
+    "DESCRIPTION": "Adds Retain."
+  },
+  "${modID}:Bad": {
+    "NAME": "Bad",
+    "DESCRIPTION": "Get a copy of this card. Removed from your deck on use."
+  },
+  "${modID}:GoodForOtherChar": {
+    "NAME": "Good For Other Character",
+    "DESCRIPTION": "Gain Prismatic Shard."
+  },
+  "${modID}:Frontload": {
+    "NAME": "Frontload",
+    "DESCRIPTION": "Costs 1 less and adds Exhaust in Act 1."
+  },
+  "${modID}:Planning": {
+    "NAME": "Planning",
+    "DESCRIPTION": "Costs 1 less and adds Exhaust in Act 4."
+  },
+  "${modID}:WorseThanCurse": {
+    "NAME": "Worse Than Curse",
+    "DESCRIPTION": "Remove this card and gain Ascender's Bane."
+  },
+  "${modID}:NeedUpgrade": {
+    "NAME": "Need Upgrade",
+    "DESCRIPTION": "Upgrade this card. Remove a random upgraded card and get downgraded copy from your deck."
+  },
+  "${modID}:NoNeedUpgrade": {
+    "NAME": "No Need Upgrade",
+    "DESCRIPTION": "Downgrade this card. This card cannot be upgraded. Upgrade a random card from your deck."
+  },
+  "${modID}:TrashWithoutSnecko": {
+    "NAME": "Trash Without Snecko",
+    "DESCRIPTION": "When you play this card, get Confused and draw a card."
+  }
+}

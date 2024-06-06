@@ -1,0 +1,96 @@
+{
+  "${modID}:Example": {
+    "TEXT": [
+      "This is",
+      "an array of Strings."
+    ],
+    "EXTRA_TEXT": [
+      "This is another",
+      "array of Strings."
+    ],
+    "TEXT_DICT": {
+      "This": "Contains pairs of Strings, used to get values based on keys.",
+      "This is a key": "This is a value."
+    }
+  },
+  "${modID}:spireHooray": {
+    "TEXT": [
+      "Upgrade 2 starter cards excluding strike and defend with War Paint or Shining Light event.",
+      ""
+    ],
+    "EXTRA_TEXT": [
+      "Spire Hooray",
+      ""
+    ]
+  },
+  "${modID}:bossLament": {
+    "TEXT": [
+      "Make the HP of boss to 1 with Neow's Lament.",
+      ""
+    ],
+    "EXTRA_TEXT": [
+      "Boss Lament",
+      ""
+    ]
+  },
+  "${modID}:fastGremlin": {
+    "TEXT": [
+      "Die at Wheel of Change event.",
+      ""
+    ],
+    "EXTRA_TEXT": [
+      "Paid Price",
+      ""
+    ]
+  },
+  "${modID}:bloom": {
+    "TEXT": [
+      "Die while having Bottle Fairy or unused Lizard Tail.",
+      ""
+    ],
+    "EXTRA_TEXT": [
+      "Bloom",
+      ""
+    ]
+  },
+  "${modID}:flameBarrier": {
+    "TEXT": [
+      "Defeat or stun 3 Byrds on turn 1.",
+      ""
+    ],
+    "EXTRA_TEXT": [
+      "Flame Barrier",
+      ""
+    ]
+  },
+  "${modID}:tastyFruit": {
+    "TEXT": [
+      "Get Strawberry, Pear, Mango.",
+      ""
+    ],
+    "EXTRA_TEXT": [
+      "Tasty Fruit",
+      ""
+    ]
+  },
+  "${modID}:cruiseShip": {
+    "TEXT": [
+      "Get Anchor, Horn Cleat, Captain's Wheel.",
+      ""
+    ],
+    "EXTRA_TEXT": [
+      "Cruise Ship",
+      ""
+    ]
+  },
+  "${modID}:kingOfCurse": {
+    "TEXT": [
+      "Get Omamori, Darkstone Periapt, Du-Vu Doll.",
+      ""
+    ],
+    "EXTRA_TEXT": [
+      "King of Curse",
+      ""
+    ]
+  }
+}

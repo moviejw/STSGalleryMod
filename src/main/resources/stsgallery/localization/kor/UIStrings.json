@@ -1,0 +1,96 @@
+{
+  "${modID}:Example": {
+    "TEXT": [
+      "This is",
+      "an array of Strings."
+    ],
+    "EXTRA_TEXT": [
+      "This is another",
+      "array of Strings."
+    ],
+    "TEXT_DICT": {
+      "This": "Contains pairs of Strings, used to get values based on keys.",
+      "This is a key": "This is a value."
+    }
+  },
+  "${modID}:spireHooray": {
+    "TEXT": [
+      "위장크림 또는 밝은 빛 이벤트로 타격과 수비를 제외한 시작 카드 2장을 강화하십시오.",
+      ""
+    ],
+    "EXTRA_TEXT": [
+      "슬끼얏호우!",
+      ""
+    ]
+  },
+  "${modID}:bossLament": {
+    "TEXT": [
+      "니오우의 비탄으로 보스의 체력을 1로 만드십시요.",
+      ""
+    ],
+    "EXTRA_TEXT": [
+      "보스 비탄",
+      ""
+    ]
+  },
+  "${modID}:fastGremlin": {
+    "TEXT": [
+      "변화의 돌림판 이벤트에서 사망하십시오.",
+      ""
+    ],
+    "EXTRA_TEXT": [
+      "대가는 지불되었다",
+      ""
+    ]
+  },
+  "${modID}:bloom": {
+    "TEXT": [
+      "병 속의 요정이나 사용하지 않은 도마뱀 꼬리를 가지고 사망하십시오.",
+      ""
+    ],
+    "EXTRA_TEXT": [
+      "개화의 표식",
+      ""
+    ]
+  },
+  "${modID}:flameBarrier": {
+    "TEXT": [
+      "첫 턴에 섀 3마리를 모두 처치하십시오.",
+      ""
+    ],
+    "EXTRA_TEXT": [
+      "화염 장벽",
+      ""
+    ]
+  },
+  "${modID}:tastyFruit": {
+    "TEXT": [
+      "딸기, 배, 망고를 모두 얻으십시오.",
+      ""
+    ],
+    "EXTRA_TEXT": [
+      "맛있겠네요",
+      ""
+    ]
+  },
+  "${modID}:cruiseShip": {
+    "TEXT": [
+      "닻, 소뿔모양 걸이, 선장의 타륜을 모두 얻으십시오.",
+      ""
+    ],
+    "EXTRA_TEXT": [
+      "유람선",
+      ""
+    ]
+  },
+  "${modID}:kingOfCurse": {
+    "TEXT": [
+      "부적, 흑옥 부적, 저주 인형을 모두 얻으십시오.",
+      ""
+    ],
+    "EXTRA_TEXT": [
+      "저주의 왕",
+      ""
+    ]
+  }
+}

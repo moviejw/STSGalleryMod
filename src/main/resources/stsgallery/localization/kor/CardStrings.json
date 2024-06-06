@@ -1,0 +1,52 @@
+{
+  "${modID}:ExampleCard": {
+    "NAME": "Name",
+    "DESCRIPTION": "Description.",
+    "UPGRADE_DESCRIPTION": "This will automatically be used if the card is upgraded. Remove it if unneeded.",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:HighCost": {
+    "NAME": "너무 무거운",
+    "DESCRIPTION": "처음으로 사용하면 [E] 를 얻습니다."
+  },
+  "${modID}:TrashWithoutPyramid": {
+    "NAME": "룬피 없이 못 쓰는",
+    "DESCRIPTION": "보존이 추가됩니다."
+  },
+  "${modID}:Bad": {
+    "NAME": "쓰기 싫은데 쓰는",
+    "DESCRIPTION": "이 카드를 복사해 얻습니다. 사용하면 덱에서 영구적으로 제거됩니다."
+  },
+  "${modID}:GoodForOtherChar": {
+    "NAME": "주인이 문제인",
+    "DESCRIPTION": "프리즘 조각을 얻습니다."
+  },
+  "${modID}:Frontload": {
+    "NAME": "초반 넘기기용",
+    "DESCRIPTION": "1막에서 비용이 1 감소하고 소멸이 추가됩니다."
+  },
+  "${modID}:Planning": {
+    "NAME": "고점 뚫기용",
+    "DESCRIPTION": "4막에서 비용이 1 감소하고 소멸이 추가됩니다."
+  },
+  "${modID}:WorseThanCurse": {
+    "NAME": "저주나 다름없는",
+    "DESCRIPTION": "이 카드를 제거하고 등반자의 골칫거리를 얻습니다."
+  },
+  "${modID}:NeedUpgrade": {
+    "NAME": "강화 의존도가 높은",
+    "DESCRIPTION": "이 카드를 강화합니다. 덱에서 무작위 강화된 카드를 제거하고 강화되지 않은 카드를 얻습니다."
+  },
+  "${modID}:NoNeedUpgrade": {
+    "NAME": "강화 의존도가 낮은",
+    "DESCRIPTION": "이 카드를 강화되지 않게 하고 더 이상 강화할 수 없습니다. 덱에서 무작위 카드를 한 장 강화합니다."
+  },
+  "${modID}:TrashWithoutSnecko": {
+    "NAME": "스네코면 좋은",
+    "DESCRIPTION": "사용하면 혼란을 받고 카드를 한 장 뽑습니다."
+  }
+}
